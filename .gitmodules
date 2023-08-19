@@ -4,3 +4,6 @@
 [submodule "DBet-Frontend"]
 	path = DBet-Frontend
 	url = https://github.com/Sandeepreddyr12/DBet-Frontend.git
+[submodule "DB-firebase_Functions"]
+	path = DB-firebase_Functions
+	url = https://github.com/Sandeepreddyr12/DB-firebase_Functions.git
