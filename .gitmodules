@@ -1,3 +1,6 @@
 [submodule "DB-Contract"]
 	path = DB-Contract
 	url = https://github.com/Sandeepreddyr12/DB-Contract.git
+[submodule "DBet-Frontend"]
+	path = DBet-Frontend
+	url = https://github.com/Sandeepreddyr12/DBet-Frontend.git
