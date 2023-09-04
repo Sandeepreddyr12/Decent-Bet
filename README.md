@@ -1,7 +1,10 @@
+# DECENT-BET
+# Decentralized Betting
 
-🎲 Decentralized Betting App with Ethereum, Solidity, Hardhat, Chainlink Automation/Functions, Moralis Web3, Firebase Functions, Firestore, Next.js 13, TypeScript, and ThirdWeb
 
 Welcome to the world of decentralized betting powered by blockchain technology! This open-source project brings together cutting-edge tools and technologies to create a secure, transparent, and exciting betting platform. With a focus on user experience, automation, and reliability, our app offers a seamless betting experience like no other.
+
+🎲 Decentralized Betting App with Ethereum, Solidity, Hardhat, Chainlink Automation/Functions, Moralis Web3, Firebase Functions, Firestore, Next.js 13, TypeScript, and ThirdWeb
 
 🌐 Features:
 - **Automated Chainlink Oracle Functions:** Leverage the power of Chainlink's reliable data feeds through fully automated Oracle functions. Get accurate and up-to-date data for betting events without any central authority.
